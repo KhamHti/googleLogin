@@ -1,4 +1,4 @@
-##npx create-expo-app {login}
+## npx create-expo-app {login}
 
 ## npx expo install expo-auth-session expo-random
 
@@ -10,4 +10,8 @@
 
 ## npx expo prebuild
 
-## npx expo install expo-dev-client
+# npx expo install expo-dev-client
+
+for android
+
+# eas build {choose android}
